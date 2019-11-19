@@ -1,1 +1,2 @@
 # metronomo
+![Skeich](/Sketch.png)
